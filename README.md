@@ -1,2 +1,2 @@
 # notepadpy
-A simple python notepad
+A simple C++ notepad
