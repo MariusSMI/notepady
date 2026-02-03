@@ -1,2 +1,1 @@
-# notepadpy
-A simple C++ notepad
+🚧 Under construction 🚧
